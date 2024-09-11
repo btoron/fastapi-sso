@@ -76,7 +76,7 @@ I tend to process Pull Requests faster when properly caffeinated 😉.
 - Line (by Jimmy Yeh) - [jimmyyyeh](https://github.com/jimmyyyeh)
 - LinkedIn (by Alessandro Pischedda) - [Cereal84](https://github.com/Cereal84)
 - Yandex (by Akim Faskhutdinov) – [akimrx](https://github.com/akimrx)
-- Zoho (by Borja Toron) - [borjat] (https://github.com/borjat)
+- Zoho (by Borja Toron-Antons) - [btoron] (https://github.com/btoron)
 
 See [Contributing](#contributing) for a guide on how to contribute your own login provider.
 
