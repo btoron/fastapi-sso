@@ -18,6 +18,7 @@ from .sso.naver import NaverSSO
 from .sso.notion import NotionSSO
 from .sso.spotify import SpotifySSO
 from .sso.twitter import TwitterSSO
+from .sso.zoho import ZohoSSO
 
 __all__ = [
     "OpenID",
@@ -37,4 +38,5 @@ __all__ = [
     "NotionSSO",
     "SpotifySSO",
     "TwitterSSO",
+    "ZohoSSO",
 ]
